@@ -24,9 +24,9 @@ No special prerequisites are required to run this project.<br/> You only need a 
 
    ```sh
    git clone https://github.com/Sais-27/Profile-card-UI-Design.git
-2. Open the index.html file in your web browser.
+2. Open the `index.html` file in your web browser.
 
-3. Customize the portfolio card content and styling in the style.css file as needed.
+3. Customize the portfolio card content and styling in the `style.css` file as needed.
 
 4. You can replace placeholders with your actual information and make any further customizations to the HTML and CSS files as needed.
 
